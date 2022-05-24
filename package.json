@@ -1,0 +1,28 @@
+{
+  "name": "prueba_parqueexplora",
+  "version": "1.0.0",
+  "description": "Prueba tecnica API-REST",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsalamanc/prueba_parqueExplora.git"
+  },
+  "author": "jsalamanc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsalamanc/prueba_parqueExplora/issues"
+  },
+  "homepage": "https://github.com/jsalamanc/prueba_parqueExplora#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "underscore": "^1.13.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
