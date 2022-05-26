@@ -27,6 +27,15 @@ luego de haber clonado el repositorio, ejecute el siguiente comando para que fun
  npm install
 ```
 
+
+para correr la app, ejecute el siguiente comando:
+
+```bash
+
+npm run dev
+
+```
+
 El enlace donde correra el backend es el siguiente 
 
 ```bash
